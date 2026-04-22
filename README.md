@@ -11,6 +11,8 @@ có thêm tính năng share
 
 khi nhập nội dung và có thể chia sẽ cho người khác
 
+# Python #
+
 **cần cài đặt bộ thư viện sau**
 ```bash
 pip install pygame pyperclip opencv-python numpy
