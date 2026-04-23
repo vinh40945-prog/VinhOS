@@ -3,7 +3,7 @@
 Công cụ này tôi vẫn chưa thể hoàn chỉnh nó vẫn sẽ xuất hiện lỗi trong quá trình sử dụng.
 
 # Truy cập nhanh #
-`https://vinh40945-prog.github.io/VinhOS-6.0/`
+`https://vinh40945-prog.github.io/VinhOS-6.1/`
 
 *đây là phiên bản mới nhất*
 
