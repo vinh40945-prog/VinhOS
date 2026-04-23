@@ -5,6 +5,10 @@ Công cụ này tôi vẫn chưa thể hoàn chỉnh nó vẫn sẽ xuất hiệ
 # Truy cập nhanh #
 `https://vinh40945-prog.github.io/VinhOS-6.1/`
 
+# trên thiết bị di động #
+
+để chỉnh sửa văn bản hoặc thêm hiệu ứng cần ấn giữ vào chứ
+
 *đây là phiên bản mới nhất*
 
 có thêm tính năng share
